@@ -5,7 +5,7 @@ The main goal of the analysis is to derive insights around:
 1- If a fellow will ultimately be placed at a company
 and
 2- How long until a placement can be expected.
-*** Go to Pathrise_PreProcessing Notebook to learn more about Business Understanding, Features Description, and Data Preparation.
+* Go to Pathrise_PreProcessing Notebook to learn more about Business Understanding, Features Description, and Data Preparation.
 the steps that I have done for Pathrise project in classification target:
 * Exploratory Data Analysis and determining Training Labels
 * Splitting data into features and target
